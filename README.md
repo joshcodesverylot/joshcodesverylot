@@ -11,4 +11,4 @@ Python • JavaScript • Node.js • MySQL • Git
 Backend development, cloud fundamentals, and system design.
 
 ## check out my Linkedin:
-[Link}(https://www.linkedin.com/in/joshua-furt/)
+[Link](https://www.linkedin.com/in/joshua-furt/)
