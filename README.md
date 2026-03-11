@@ -4,10 +4,10 @@
 💻 Interested in software development, AI, and backend systems  
 
 I like creating and building things, coding is one of my favourite ways of doing that.
-## 🛠 Tech
-Python • JavaScript • Node.js • MySQL • Git
+##  Tech Stack
+Python, JavaScript, Node.js, MySQL, Git
 
-## 📚 Currently Learning
+## Currently Learning
 Backend development, cloud fundamentals, and system design.
 
 ## check out my Linkedin:
