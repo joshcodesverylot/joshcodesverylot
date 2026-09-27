@@ -5,7 +5,7 @@
 
 I like creating and building things, coding is one of my favourite ways of doing that.
 ##  Tech Stack
-Python, JavaScript, Node.js, MySQL, Git
+Python, JavaScript, Node.js, MySQL, MongoDB, Git
 
 ## Currently Learning
 Backend development, cloud fundamentals, and system design.
