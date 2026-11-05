@@ -8,7 +8,7 @@ I like creating and building things, coding is one of my favourite ways of doing
 Python, JavaScript, Node.js, MySQL, MongoDB, Git
 
 ## Currently Learning
-Backend development, cloud fundamentals, and system design.
+Backend development, Data Pipelines, and system design.
 
 ## check out my Linkedin:
 [Link](https://www.linkedin.com/in/joshua-furt/)
